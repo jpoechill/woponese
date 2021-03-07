@@ -1,11 +1,11 @@
 <template>
-  <div class="d-flex bg-gradient align-items-center">
+  <div class="d-flex p-5 bg-gradient align-items-center">
 
   <!-- <div class="bg-white p-5"> -->
     <div class="container bg-white p-5">
       <div class="row">
         <div class="col-md-4">
-          <img src="/wop.png" class="avatar pb-5 pb-md-0 pb-lg-0" alt="">
+          <img src="/wop.png" class="avatar pb-5 pb-md-0 pb-lg-0 w-100" alt="">
         </div>
         <div class="col-md-8">
           <b style="font-size: 20px;">WOPONESE_</b><br><br>
