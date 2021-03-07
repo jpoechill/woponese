@@ -35,9 +35,13 @@ export default {
   max-width: 300px;
 }
 
+html, body, #__nuxt, #__layout, #__layout > div {
+  height: 100%;
+}
+
 .bg-gradient {
   width: 100vw;
-  height: 100vh;
+  height: 100%;
   background: rgb(130,62,233);
   background: linear-gradient(150deg, rgba(130,62,233,1) 0%, rgba(32,10,57,1) 100%);
 }
