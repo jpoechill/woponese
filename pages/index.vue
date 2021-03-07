@@ -1,5 +1,5 @@
 <template>
-  <div class="d-flex p-5 bg-gradient align-items-center">
+  <div class="d-flex bg-gradient align-items-center">
 
   <!-- <div class="bg-white p-5"> -->
     <div class="container bg-white p-5">
