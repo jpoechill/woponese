@@ -44,7 +44,8 @@ html, body, #__nuxt, #__layout, #__layout > div {
   height: 100%;
 }
 
-body {
+html, body {
+  background-color: rgb(130,62,233);
   background: rgb(130,62,233);
   background: linear-gradient(150deg, rgba(130,62,233,1) 0%, rgba(32,10,57,1) 100%);
 }
