@@ -1,10 +1,9 @@
 <template>
-  <div class="d-flex p-5 bg-gradient align-items-center">
-
+  <div class="d-flex p-5 align-items-center">
   <!-- <div class="bg-white p-5"> -->
     <div class="container bg-white p-5">
       <div class="row">
-        <div class="col-md-4">
+        <div class="col-md-4 text-center">
           <img src="/wop.png" class="avatar pb-5 pb-md-0 pb-lg-0 w-100" alt="">
         </div>
         <div class="col-md-8">
@@ -45,9 +44,11 @@ html, body, #__nuxt, #__layout, #__layout > div {
 }
 
 html, body {
+  height: 100%;
   background-color: rgb(130,62,233);
   background: rgb(130,62,233);
   background: linear-gradient(150deg, rgba(130,62,233,1) 0%, rgba(32,10,57,1) 100%);
+  background-size: 100% 100%;
 }
 
 .bg-white {
