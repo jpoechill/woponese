@@ -5,13 +5,13 @@
       <div class="container">
         <div class="row bg-white p-5">
           <div class="col-md-12">
-            <b style="font-size: 20px;">WOPONESE_</b><br><br>
+            <b style="font-size: 20px;">WHO AM I?</b><br><br>
           </div>
           <div class="col-md-4 text-center">
             <img src="/wop.png" class="avatar pb-5 pb-md-0 pb-lg-0 w-100" alt="">
           </div>
           <div class="col-md-8">
-            Gamer going by the handle, Woponese. <br><br>
+            Woponese_ <br><br>
             I'm 33 years old, and play live from Pittsburgh, PA.
             <br><br>
             Main: COD: Warzone<br>
