@@ -1,8 +1,22 @@
 <template>
-  <div>
-    <nuxt />
+  <div class="container">
+    <div class="row mt-4">
+      <div class="col-md-12 text-white">
+        Redirecting...
+      </div>
+    </div>
+    <!-- <nuxt /> -->
   </div>
 </template>
+
+<script>
+export default {
+  beforeMount() {
+    window.location.href = "https://youtube.com";
+  },
+}
+</script>
+
 
 <style>
 html {
