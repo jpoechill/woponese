@@ -12,7 +12,7 @@
 <script>
 export default {
   beforeMount() {
-    window.location.href = "https://youtube.com";
+    window.location.href = "https://www.youtube.com/channel/UCzVzw3Zu8GS52YCvwnBxcYQ";
   },
 }
 </script>
